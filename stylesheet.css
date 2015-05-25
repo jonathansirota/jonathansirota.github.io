@@ -1,0 +1,59 @@
+.total {
+	background-image: url("http://www.zastavki.com/pictures/originals/2012/Backgrounds_Light_blue_background_035584_.jpg");
+	background-repeat: no-repeat;
+	border-style: solid;
+	border-width: 5px;
+	border-color: black;
+	border-radius: 5px;
+	font-size: small;
+}
+.education {
+	margin-left: 10px;
+
+}
+
+.Work {
+	margin-left: 10px;
+}
+.experience {
+	margin-left: 10px;
+}
+
+.technical {
+	margin-left: 10px;
+}
+
+.activities {
+	margin-left: 0px;
+}
+
+h4 {
+	margin-top: -10px;
+}
+
+hr {
+	display: block;
+	margin: 10px;
+	width: 30%;
+	position: relative;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+h3 {
+	font-size: small;
+}
+
+
+#header::first-line {
+	font-size: large;
+}
+
+#pdf {
+	position: absolute;
+	right: 0;
+	margin-right: 20px;
+	top: 0;
+	margin-top: 20px;
+}
